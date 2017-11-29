@@ -19,7 +19,7 @@
 	input[type="button"],
 	button,
 	.button {
-		border: solid 2px #4c4646 !important;
+		border: solid 2px #a5aeaf !important;
 	}
 
 		input[type="submit"]:hover,
@@ -27,7 +27,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: #f2849e !important;
+			border-color: #02adcc !important;
 		}
 
 		input[type="submit"].special,

@@ -2177,8 +2177,8 @@
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-bottom-color: #f2849e;
-			box-shadow: inset 0 -1px 0 0 #f2849e;
+			border-bottom-color: #0dd2e0;
+			box-shadow: inset 0 -1px 0 0 #0dd2e0;
 		}
 
 	.select-wrapper {
@@ -2288,8 +2288,8 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #f2849e;
-			box-shadow: 0 0 0 1px #f2849e;
+			border-color: #0dd2e0;
+			box-shadow: 0 0 0 1px #0dd2e0;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -3013,7 +3013,7 @@
 		max-width: 80%;
 		height: 100%;
 		-webkit-overflow-scrolling: touch;
-		background: #0fb4bc;
+		background: #0fb4bc;/메뉴바탕색깔
 		color: #ffffff;
 		cursor: default;
 		visibility: hidden;

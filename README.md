@@ -59,4 +59,5 @@ Manual for Nemo Developers
       - [HTML시작하기](https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
   2. Coding Convention
-    - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+    - HTML Style Guide
+		 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)

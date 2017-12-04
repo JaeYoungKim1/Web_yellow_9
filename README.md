@@ -49,6 +49,7 @@ Manual for Nemo Developers
   [Facebook](https://www.facebook.com/groups/146509015998587/) : 프로젝트 Nemo 페이스북 그룹입니다.
 
 <h2> 3. References </h2>
+
   1. 개발에 도움이 되는 자료 모음
     - 오픈소스가 처음인 당신에게
       - [오픈소스 가이드](https://naver.github.io/OpenSourceGuide/book/)
@@ -60,4 +61,4 @@ Manual for Nemo Developers
 
   2. Coding Convention
     - HTML Style Guide
-		 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+      - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
